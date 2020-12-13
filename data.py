@@ -7,4 +7,3 @@
 # -- repository/notebook: Private repository URL and/or public notebook in kaggle                        -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 
-a = 1+1

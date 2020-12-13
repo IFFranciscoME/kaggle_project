@@ -6,7 +6,3 @@
 # -- license: GPL-3.0 License                                                                            -- #
 # -- repository/notebook: Private repository URL and/or public notebook in kaggle                        -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
-
-import data as dt
-
-print(dt.a)
