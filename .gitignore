@@ -1,3 +1,15 @@
+
+# ------ Added Manually ------ #
+
+# vscode project file
+workspace.code-workspace
+
+# personalized folder for venv
+venv_kaggle_project/
+
+# ---------------------------- #
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
